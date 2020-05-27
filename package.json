@@ -1,0 +1,19 @@
+{
+    "name": "leaseWriter.json",
+    "version": "1.0.0",
+    "description": "In this activity, I created CLI app to write real estate leases",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "npm",
+        "install"
+    ],
+    "author": "Ivan Popov, CPA",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "inquirer": "^6.5.0"
+    }
+}
