@@ -33,6 +33,12 @@ const input = [
         message: "How much is the monthly rent?",
         default: "1000"
      },
+     {
+      type: "input",
+      name: "landlordAddress",
+      message: "Please enter landlord's mailing address",
+      default: '3740 Jay St, Wheat Ridge, CO 80033'
+    },
        
 ]
 

@@ -10,7 +10,7 @@ RENTAL AGREEMENT
 
 3.) STARTING / ENDING DATES OF LEASE
 
-a) This lease begins on 10/1/2017. This lease ends on 9/30/2018.
+a) This lease begins on ${d.bdate}. This lease ends on ${e.date}.
 
 b) To end this lease Landlord or Tenant must give 30 days notice before the ending date or any renewal period.
 
@@ -18,19 +18,13 @@ c) This lease automatically renews on a month-to-month basis if not ended or cha
 
 4) MOVE-IN COSTS AMOUNT CHARGE / DESCRIPTION
 
-Rent $1,050/month
+Rent $${d.rent}/month
 
-Additional Rent $50/month for double occupancy
+Security Deposit $${d.rent} Refundable 
 
-Security Deposit $1050 Refundable 
+Total Due $${d.rent*2}
 
-Key Loss Penalty 0 Refundable as part of security deposit 
-
-Additional Deposit $0
-
-Total Due $3150
-
-Total rent due for entire length of lease $12,600/year - single occupancy
+Total rent due for entire length of lease $${d.rent*12}/year.
 
 5) ADDRESS TO SEND RENT PAYMENTS: 5 Autumn Leaf Drive Apt. 23, Nashua, NH 03060. Rent will be only collected by mail. Hand-delivered mail will never be accepted. Payments only in the forms of checks or money order (if mailed) will be made to “Ivan Popov.”
 
