@@ -177,7 +177,6 @@ c) If the inspection sheet is not returned within the five (5) days, Tenant agre
 
 37) INDEMNIFICATION: Resident shall indemnify, defend and hold owner harmless from any claim, loss, or liability arising out of or related to any activity on Premises of Resident, and any guest. Resident's duty to indemnify shall not apply to or prevent any claim by Resident against manager for injury or damage to Resident or Resident's property for which manager may be liable.
 
-
 38) APPLIANCES: Unless otherwise stated as part of the custom rental package, this rental agreement does NOT include any appliances. Appliances that are located on the premises are there solely at the convenience of the owner, who assumes no responsibility for their operation. While on the premises, residents are free to use them; however, residents do so at their own risk. In the event appliances fail to function, the owner is not liable for repair or damages. If residents wish, at any time they may request that the appliances be removed. The owner will dispose of them at his expense.
 
 39) MANAGER'S RIGHT TO ACCESS: Manager shall have the right to enter the premises in order to inspect the Premises, make necessary or agreed repairs or improvements, supply necessary or agreed services, or show the premises to prospective residents, purchasers or contractors. Except in case of emergency, agreement to the contrary by Resident, or unless it is impractical to do so, manager shall give Resident at least 24 hours notice of manager's intent to enter, and may enter only at reasonable times. Manager shall also have the right to enter the Premises when Resident has abandoned or surrendered the Premises, or during any absence of Resident in excess of 7 days. Resident shall not unreasonably withhold consent for manager to enter the premises.
@@ -198,13 +197,19 @@ c) Within 30 days of Tenant moving, Landlord forwards the balance of the securit
 
 d) Landlord will use security deposit money in the following order:
 
-1. Additional Rent Charges 5. Past Due Rent
+1. Additional Rent Charges 
 
-2. Tenant-owed Utility Bills 6. Current Rent
+2. Tenant-owed Utility Bills 
 
-3. Legal and Court Costs 7. Damages to Leased Property
+3. Legal and Court Costs 
 
 4. Other Fees Not Paid
+
+5. Past Due Rent
+
+6. Current Rent
+
+7. Damages to Leased Property
 
 e) Tenant can not use the security deposit as payment for any month’s rent including the last month’s rent without court permission.
 
@@ -238,7 +243,7 @@ l) All carpets have been professionally cleaned and written proof given to Landl
 
 45) JOINT LIABILITY: Each person signing this Agreement as a Resident is jointly and severally liable for all the terms of this agreement.
 
-46) ADDITIONAL PROVISIONS & MODIFICATIONS TO THIS: Any additions or modifications to this Agreement must be in writing. The following additional provisions are part of this agreement: .
+46) ADDITIONAL PROVISIONS & MODIFICATIONS TO THIS: Any additions or modifications to this Agreement must be in writing. The following additional provisions are part of this agreement: ${d.additional}.
 
 47) VALIDITY OF EACH PART: If any portion of this Agreement is held to be invalid, its invalidity will not affect the enforceability of any other provision.
 

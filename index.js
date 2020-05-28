@@ -105,6 +105,12 @@ const input = [
       message: "What is year, make, model and licence plate of the vehicle that will be parked on premisses?",
       default: 'none'
     },
+    {
+      type: "input",
+      name: "additional",
+      message: "Any additional provisions?",
+      default: 'none'
+    },
 ]
 
 function makeLease(name, data) {
