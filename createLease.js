@@ -10,7 +10,7 @@ RENTAL AGREEMENT
 
 3.) STARTING / ENDING DATES OF LEASE
 
-a) This lease begins on ${d.bdate}. This lease ends on ${e.date}.
+a) This lease begins on ${d.bdate}. This lease ends on ${d.edate}.
 
 b) To end this lease Landlord or Tenant must give 30 days notice before the ending date or any renewal period.
 
