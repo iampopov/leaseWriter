@@ -1,5 +1,7 @@
 const inquirer = require('inquirer');
-const createLease = require('./createLease')
+const fs = require('fs');
+const path = require('path');
+const createLease = require('./createLease');
 const input = [
     {
         type: "input",
@@ -76,3 +78,11 @@ const input = [
         default: 'this is an open source app - anyone can contribute'
       }
 ]
+
+function makeLease(name, data) {
+  return fs.writ
+}
+
+function launchGenerator() {
+  inquirer.prompt(input).then(r => )
+}
