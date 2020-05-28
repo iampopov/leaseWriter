@@ -11,35 +11,28 @@ const input = [
     },
     {
         type: "input",
-        name: "GH",
-        message: "Please type your GitHub username?",
-        default: 'iampopov'
-      },
-      {
-        type: "input",
-        name: "fName",
-        message: "Please provide the name for a .md file?",
-        default: 'README'
-      },
-      //note for validation you can use either npm packages e.g. joi or your own function (this is optional)
-      {
-        type: "input",
         name: "parties",
         message: "Who are the lessees?",
         default: "John Smith",
-      },
-      {
+     },
+     {
         type: "input",
-        name: "dates",
-        message: "What are the dates for the lease?",
-        default: '09/01/2020 - 08/31/2021'
-      },
-      {
+        name: "bdate",
+        message: "What is the first date of the lease",
+        default: '09/01/2020'
+     },
+     {
+        type: "input",
+        name: "edate",
+        message: "What is the last date of the lease",
+        default: '08/31/2021'
+     },
+     {
         type: "input",
         name: "rent",
         message: "How much is the monthly rent?",
         default: "1000"
-      },
+     },
        
 ]
 

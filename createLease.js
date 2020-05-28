@@ -6,7 +6,7 @@ RENTAL AGREEMENT
 
 1) PARTIES: This agreement is entered into on this date ${date} between the following parties RESIDENT(S): Karina Salazar and MANAGER: Ivan Popov. Resident agrees to rent from the owner of the premises at the following location subject to the terms and conditions of this agreement.
 
-2) SUBJECT PROPERTY: 33 Ellsworth St, Apt 3 Everett, MA
+2) SUBJECT PROPERTY: ${d.subj}
 
 3.) STARTING / ENDING DATES OF LEASE
 
