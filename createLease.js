@@ -4,7 +4,7 @@ function createLease(d) {
 return `
 RENTAL AGREEMENT
 
-1) PARTIES: This agreement is entered into on this date ${date} between the following parties RESIDENT(S): Karina Salazar and MANAGER: Ivan Popov. Resident agrees to rent from the owner of the premises at the following location subject to the terms and conditions of this agreement.
+1) PARTIES: This agreement is entered into on this date ${date} between the following parties RESIDENT(S): ${d.part1} ${d.part2} and MANAGER: ${d.landlordName}. Resident agrees to rent from the owner of the premises at the following location subject to the terms and conditions of this agreement.
 
 2) SUBJECT PROPERTY: ${d.subj}
 
@@ -249,33 +249,18 @@ l) All carpets have been professionally cleaned and written proof given to Landl
 
 48) GROUNDS FOR TERMINATION: The failure of Resident or guests to comply with any term of this agreement is grounds for termination, with appropriate notice and procedures required by law.
 
-49)    READ THIS ENTIRE AGREEMENT: That Resident has read all the stipulations contained in the rental agreement, agrees to comply and has received a copy thereof.
+49) READ THIS ENTIRE AGREEMENT: That Resident has read all the stipulations contained in the rental agreement, agrees to comply and has received a copy thereof.
 
-50) INSPECTION
+50) BILLING FOR UTILITIES THAT REMAIN IN LANDLORD’S NAME: If landlord keeps utility bills in landlord’s name, or local municipalities require bills to stay in landlord’s name, landlord will forward bill to tenant. Tenant is then responsible to pay his/her portion to the landlord promptly.
 
-a) Tenant agrees to give Landlord a signed inspection sheet when signing this lease. When this lease ends, Tenant is responsible for all items needing repair not listed on the inspection sheet, OR
+51) SMOKING: No smoking will be allowed in the unit.
 
-b) Tenant may decide to keep the inspection sheet beyond the date of lease signing for further inspection. It is Tenant’s responsibility to return a signed copy by certified mail within five (5) days to the Landlord.
+Resident's signature: ___________________________${d.part1} Date ${date}
 
-c) If the inspection sheet is not returned within the five (5) days, Tenant agrees the leased property is in satisfactory condition.
-
-51) BILLING FOR UTILITIES THAT REMAIN IN LANDLORD’S NAME: If landlord keeps utility bills in landlord’s name, or local municipalities require bills to stay in landlord’s name, landlord will forward bill to tenant. Tenant is then responsible to pay the utility company promptly.
-
-52) BILLING FOR UTILITIES THAT REMAIN IN LANDLORD’S NAME
-
-a) When the Landlord receives the utility bill, Landlord will pay the bill and submit a copy to Tenant. If the charges are more than the amount paid by Tenant each month, Tenant pays the difference to Landlord within 10 days of receiving the bill.
-
-b) If Tenant has been late on any month’s rent during the year, owes additional fees, and does not renew the lease for another year, Landlord is not responsible to pay rent credit payments.
+Resident's signature: ___________________________${d.part2} Date ${date}
 
 
-53) SMOKING: No smoking will be allowed in the unit.
-
-Resident's signature: ___________________________Karina Salazar Date Wednesday, September 27, 2017
-
-
-Manager signature: ____________________________Ivan Popov Date Wednesday, September 27, 2017
-
-
+Manager signature: ____________________________${d.landlordName} Date ${date}
 
 `;
 }

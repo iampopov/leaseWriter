@@ -11,8 +11,14 @@ const input = [
     },
     {
         type: "input",
-        name: "parties",
-        message: "Who are the lessees?",
+        name: "part1",
+        message: "What is the first lessee name?",
+        default: "John Smith",
+     },
+    {
+        type: "input",
+        name: "part2",
+        message: "What is the second lessee name?",
         default: "John Smith",
      },
      {
