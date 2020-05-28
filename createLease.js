@@ -1,6 +1,6 @@
 const date = new Date()
 
-function createLease(data) {
+function createLease(d) {
 return `
 RENTAL AGREEMENT
 
