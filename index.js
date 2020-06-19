@@ -119,6 +119,7 @@ const input = [
     },
 ]
 
+
 function makeLease(name, data) {
   return fs.writeFileSync(path.join(process.cwd(), name), data);
 };
