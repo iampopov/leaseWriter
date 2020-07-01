@@ -4,6 +4,7 @@ function createLease(d) {
 return `
 RENTAL AGREEMENT
 
+
 1) PARTIES: This agreement is entered into on this date ${date} between the following parties RESIDENT(S): ${d.part1} ${d.part2} and MANAGER: ${d.landlordName}. Resident agrees to rent from the owner of the premises at the following location subject to the terms and conditions of this agreement.
 
 2) SUBJECT PROPERTY: ${d.subj}
