@@ -28,7 +28,6 @@ Total rent due for entire length of lease $${d.rent*12}/year.
 
 5) ADDRESS TO SEND RENT PAYMENTS: ${d.landlordAddress}. Rent will be only collected by mail or electronically via Cozy account. Hand-delivered mail will never be accepted. Payments only in the forms of checks or money order (if mailed) will be made to “Ivan Popov.”
 
-
 6) TRADITIONAL DELIVERY OF PAYMENTS: Please be advised that any payments lost in the mail will be treated as if unpaid until received by management. If a check is returned unpaid for whatever reason, checks will no longer be accepted for at least six months. Resident will be required to pay by certified funds only. To avoid potential problems, we suggest one of the worry free payment methods such as Cozy electronic payments.
 
 7) LATE PAYMENT AND ADDITIONAL RENT CHARGES:
