@@ -20,6 +20,7 @@ c) This lease automatically renews on a month-to-month basis if not ended or cha
 
 Rent $${d.rent}/month
 
+
 Security Deposit $${d.rent} Refundable 
 
 Total Due $${d.rent*2}
