@@ -18,6 +18,7 @@ c) This lease automatically renews on a month-to-month basis if not ended or cha
 
 4) MOVE-IN COSTS AMOUNT CHARGE / DESCRIPTION
 
+
 Rent $${d.rent}/month
 
 Security Deposit $${d.rent} Refundable 
