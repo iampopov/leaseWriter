@@ -24,7 +24,6 @@ Security Deposit $${d.rent} Refundable
 
 Total Due $${d.rent*2}
 
-
 Total rent due for entire length of lease $${d.rent*12}/year.
 
 5) ADDRESS TO SEND RENT PAYMENTS: ${d.landlordAddress}. Rent will be only collected by mail or electronically via Cozy account. Hand-delivered mail will never be accepted. Payments only in the forms of checks or money order (if mailed) will be made to “Ivan Popov.”
