@@ -1,6 +1,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');
+const pdf = require('html-pdf');
+const options = {format: 'Letter'};
 const createLease = require('./createLease');
 const input = [
     {
@@ -120,7 +122,11 @@ const input = [
 ]
 
 function makeLease(name, data) {
-  return fs.writeFileSync(path.join(process.cwd(), name), data);
+  //return fs.writeFileSync(path.join(process.cwd(), name), data);
+  return pdf.create(data, options).toFile(`./${name}.pdf`, function(err, res){
+    if (err) return console.log(err);
+    console.log(res);
+  })
 };
 
 function launchGenerator() {
