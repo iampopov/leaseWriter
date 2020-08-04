@@ -127,5 +127,4 @@ function launchGenerator() {
   inquirer.prompt(input).then(r => makeLease('leaseName.html', createLease(r)))
 };
 
-
 launchGenerator();
