@@ -16,6 +16,7 @@ b) To end this lease Landlord or Tenant must give 30 days notice before the endi
 
 c) This lease automatically renews on a month-to-month basis if not ended or changed by either party.
 
+
 4) MOVE-IN COSTS AMOUNT CHARGE / DESCRIPTION
 
 Rent $${d.rent}/month
