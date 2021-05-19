@@ -26,9 +26,9 @@ Total Due $${d.rent*2}
 
 Total rent due for the entire length of lease $${d.rent*12}/year.
 
-5) ADDRESS TO SEND RENT PAYMENTS: ${d.landlordAddress}. Rent will be only collected by mail or electronically via Cozy account. Hand-delivered mail will never be accepted. Payments only in the forms of checks or money order (if mailed) will be made to “Ivan Popov.”
+5) ADDRESS TO SEND RENT PAYMENTS: ${d.landlordAddress}. Rent will be only collected by mail or electronically via Apartments.com account. Hand-delivered mail will never be accepted. Payments only in the forms of checks or money order (if mailed) will be made to “Ivan Popov.”
 
-6) TRADITIONAL DELIVERY OF PAYMENTS: Please be advised that any payments lost in the mail will be treated as if unpaid until received by management. If a check is returned unpaid for whatever reason, checks will no longer be accepted for at least six months. Resident will be required to pay by certified funds only. To avoid potential problems, we suggest one of the worry free payment methods such as Cozy electronic payments.
+6) TRADITIONAL DELIVERY OF PAYMENTS: Please be advised that any payments lost in the mail will be treated as if unpaid until received by management. If a check is returned unpaid for whatever reason, checks will no longer be accepted for at least six months. Resident will be required to pay by certified funds only. To avoid potential problems, we suggest one of the worry free payment methods such as Apartments.com electronic payments.
 
 7) LATE PAYMENT AND ADDITIONAL RENT CHARGES:
 
@@ -40,9 +40,9 @@ Total rent due for the entire length of lease $${d.rent*12}/year.
 
 •     If Tenant mails rent to Landlord, the postmark date of the letter is the date of payment.
 
-•    Rent is considered late if postmarked after the 15th day of each month. Rent is $25 more if not paid by the due date.
+•    Rent is considered late if postmarked after the 15th day of each month. Rent is $50 more if not paid by the due date.
 
-•    Rent is an additional $50 if not paid by the 25th.
+•    Rent is an additional $100 if not paid by the 25th.
 
 •    Charges not paid when due become additional rent for the next month’s rent.
 
@@ -102,7 +102,7 @@ d) Locks: Tenant agrees not to change locks or put additional locks on doors wit
 
 e) Phone Numbers: Tenant agrees to provide Landlord with current home and work phone numbers and will tell Landlord of any change in these numbers.
 
-f) Emails: Tenant agrees to provide Landlord with the email address to be used for electronic payments via Cozy.co
+f) Emails: Tenant agrees to provide Landlord with the email address to be used for electronic payments via Apartments.com
 
 16) LANDLORD’S RESPONSIBILITIES
 
