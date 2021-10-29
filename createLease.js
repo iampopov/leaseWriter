@@ -128,7 +128,7 @@ Date______________________
 
 19) NOTICES: Any notice is deemed served on the day on which it is both mailed by first class mail to the Resident at the premises, and attached in a secure manner to the main entrance of that portion of the premises of which Resident has possession.
 
-20) REMEDIES/ATTORNEY'S FEES: Nothing in this Agreement shall limit the right of the Manager to terminate this Agreement as provided by any provision of the Colorado Law about Landlord and Tenant. If civil action is instituted in connection with this Agreement, the prevailing party shall be entitled to recover court costs and any reasonable attorney's fees.
+20) REMEDIES/ATTORNEY'S FEES: Nothing in this Agreement shall limit the right of the Manager to terminate this Agreement as provided by any provision of the Colorado Law about Landlord and Tenant. If civil action is instituted in connection with this Agreement, the landlord shall be entitled to recover court costs and any reasonable attorney's fees.
 
 21) MANAGER/AGENT FOR SERVICE: The Name, address and phone of the manager and agent for service is: ${d.landlordName} ${d.landlordAddress}.
 
