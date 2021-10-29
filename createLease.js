@@ -130,7 +130,7 @@ Date______________________
 
 20) REMEDIES/ATTORNEY'S FEES: Nothing in this Agreement shall limit the right of the Manager to terminate this Agreement as provided by any provision of the Colorado Law about Landlord and Tenant. If civil action is instituted in connection with this Agreement, the landlord shall be entitled to recover court costs and any reasonable attorney's fees.
 
-21) MANAGER/AGENT FOR SERVICE: The Name, address and phone of the manager and agent for service is: ${d.landlordName} ${d.landlordAddress}.
+21) MANAGER/AGENT FOR SERVICE: The address and phone of the manager and agent for service is: ${d.landlordName} ${d.landlordAddress}.
 
 22) MAJOR MAINTENANCE GUARANTEE: Residents understand and agree that the following major repairs are the responsibility of the owners and managers
 
